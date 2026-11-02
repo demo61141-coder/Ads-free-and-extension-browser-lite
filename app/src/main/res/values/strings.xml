@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Veyora Browser</string>
+    <string name="search_or_type_url">Search or enter web address…</string>
+    <string name="ad_blocked_banner">Ad Blocked: Cleaner pages, Faster browsing</string>
+    <string name="block_ads_popups">Block ads &amp; pop-ups</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_tabs">Tabs</string>
+    <string name="nav_devtools">Inspect</string>
+    <string name="nav_bookmarks">Saved</string>
+    <string name="nav_settings">Menu</string>
+    <string name="quick_access">Quick Access</string>
+    <string name="add_shortcut">Add</string>
+    <string name="vpn_proxy_shield">VPN &amp; Proxy Shield</string>
+    <string name="developer_tools">Developer Tools (Inspect Mode)</string>
+    <string name="extensions_store">Extensions &amp; Web Store</string>
+    <string name="search_engine_label">Default Search Engine</string>
+    <string name="architecture_blueprint">Architecture &amp; Build Guide</string>
+</resources>

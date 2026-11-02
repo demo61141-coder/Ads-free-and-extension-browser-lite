@@ -1,0 +1,6 @@
+{
+  "name": "Veyora Browser",
+  "description": "A lightweight, fast Android WebView browser featuring a built-in Ad Blocker, VPN/Proxy switcher, live Developer Tools (Inspect, Console, Network), multi-search engine support, and custom extension manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
